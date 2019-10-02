@@ -1,2 +1,2 @@
 # plastic-reg
-Scripts used for the regionalization of the emission flows of plastic
+R scripts used for the regionalization of the emission flows of plastic
